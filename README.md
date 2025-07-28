@@ -15,21 +15,7 @@ The pipeline consists of:
 ---
 ## 🧠 Process Flow
 
-```text
-Web Scraping
-     ↓
-HTML Extraction
-     ↓
-Headline Text
-     ↓
-→ Prompt to Hugging Face API
-     ↓
-← Star Rating (1 to 5)
-     ↓
-Map to Sentiment (positive / neutral / negative)
-     ↓
-Create DataFrame of Results
----
+<img width="638" height="560" alt="image" src="https://github.com/user-attachments/assets/ad51e37f-0f03-481a-b6e3-f70af3455818" />
 
 
 ## 🤗 Sentiment Model
