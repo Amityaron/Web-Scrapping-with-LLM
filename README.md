@@ -29,6 +29,7 @@ Headline Text
 Map to Sentiment (positive / neutral / negative)
      ↓
 Create DataFrame of Results
+---
 
 
 ## 🤗 Sentiment Model
@@ -43,7 +44,6 @@ This model returns sentiment scores from 1 to 5 stars, which we map to:
 - 3 stars → `neutral`
 - 4–5 stars → `positive`
 
----
 
 ## 📰 Example Output
 
